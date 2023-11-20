@@ -1,6 +1,6 @@
 {
-  "name": "@brickyang/easy-mongodb",
-  "version": "2.0.1",
+  "name": "@koooex/mongodb",
+  "version": "2.0.4",
   "description": "Based on MongoDB Native Node.js Driver.",
   "main": "index.js",
   "scripts": {
@@ -29,12 +29,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com:brickyang/easy-mongodb.git"
+    "url": "git+https://github.com:koooex/mongodb.git"
   },
   "bugs": {
-    "url": "https://github.com/brickyang/easy-mongodb/issues"
+    "url": "https://github.com/koooex/mongodb/issues"
   },
-  "homepage": "https://github.com/brickyang/easy-mongodb#readme",
-  "author": "Brick",
+  "homepage": "https://github.com/koooex/mongodb#readme",
+  "author": "Jobs",
   "license": "MIT"
 }

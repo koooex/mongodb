@@ -1,3 +1,3 @@
 const MongoDB = require('./lib/mongo');
 
-module.exports = MongoDB;
+module.exports = MongoDB.default;
